@@ -14,7 +14,7 @@ Bangladesh Bank introduced a crawling-peg exchange-rate mechanism in May 2024, f
 
 Bangladesh (focal case), Pakistan, and Vietnam — chosen to illustrate differences in exchange-rate management, external financing structure, reserve management, remittance dependence, and trade structure, not to imply structural similarity.
 
-## Methodology, in plain language
+## Methodology
 
 - **Exchange Market Pressure (EMP):** a standard, published two-component index (Kaminsky, Lizondo & Reinhart, 1998, *IMF Staff Papers*) combining monthly exchange-rate changes and reserve changes into a single pressure measure, weighted per country so that reserve volatility doesn't mechanically dominate the index. No policy-rate data is required or used. KLR's original crisis-dating threshold is **not** applied — the project uses the continuous index descriptively.
 - **Gate 2 (descriptive event-window analysis):** compares Bangladesh's EMP in the 12 months before versus the 12 months after the reform, against its own full 2018–2026 history and against Pakistan and Vietnam over the identical calendar window.
@@ -32,7 +32,6 @@ All data is sourced directly from primary institutions and independently verifie
 
 ## Headline findings
 
-*(Reproduced exactly from `FINAL_RESULTS_LOCKED.md` — no new numbers introduced here.)*
 
 - Bangladesh's mean EMP fell from **0.0072** in the 12 months before the reform to **−0.0060** in the 12 months after (full 2018–2026 historical mean: 0.0037), with volatility little changed. The reform month itself (May 2025, EMP 0.0190) was not unusually large relative to the preceding 12-month distribution.
 - **Pakistan and Vietnam show the same directional decline in mean EMP over the identical calendar window** — Pakistan from −0.0023 to −0.0113, Vietnam from 0.0035 to 0.0000. **This is the project's central interpretive constraint: Bangladesh's pattern cannot be read as a causal estimate of the reform's effect**, since the same shift appears where no comparable reform occurred.
