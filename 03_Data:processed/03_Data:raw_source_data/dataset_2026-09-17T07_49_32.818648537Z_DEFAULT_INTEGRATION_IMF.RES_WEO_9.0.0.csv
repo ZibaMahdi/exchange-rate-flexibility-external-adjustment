@@ -1,0 +1,4 @@
+﻿"DATASET","SERIES_CODE","OBS_MEASURE","COUNTRY","INDICATOR","FREQUENCY","SCALE","2018","2019","2020","2021","2022","2023","2024","2025","2026"
+"IMF.RES:WEO(9.0.0)","BGD.PCPIPCH.A","OBS_VALUE","Bangladesh","All Items, Consumer price index (CPI), Period average, percent change","Annual","Units","5.783","5.475","5.648","5.558","6.150","9.016","9.728","10.045","9.173"
+"IMF.RES:WEO(9.0.0)","PAK.PCPIPCH.A","OBS_VALUE","Pakistan","All Items, Consumer price index (CPI), Period average, percent change","Annual","Units","4.700","6.802","10.739","8.896","12.153","29.181","23.411","4.495","7.154"
+"IMF.RES:WEO(9.0.0)","VNM.PCPIPCH.A","OBS_VALUE","Vietnam","All Items, Consumer price index (CPI), Period average, percent change","Annual","Units","3.540","2.796","3.221","1.835","3.157","3.253","3.621","3.310","4.861"

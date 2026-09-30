@@ -1,0 +1,4 @@
+﻿"DATASET","SERIES_CODE","OBS_MEASURE","COUNTRY","INDICATOR","FREQUENCY","SCALE","2018","2019","2020","2021","2022","2023","2024","2025","2026"
+"IMF.RES:WEO(9.0.0)","BGD.NGDP_RPCH.A","OBS_VALUE","Bangladesh","Gross domestic product (GDP), Constant prices, Percent change","Annual","Units","7.319","7.882","3.448","6.939","7.100","5.775","4.223","3.490","4.693"
+"IMF.RES:WEO(9.0.0)","PAK.NGDP_RPCH.A","OBS_VALUE","Pakistan","Gross domestic product (GDP), Constant prices, Percent change","Annual","Units","6.096","3.120","-0.943","5.770","6.180","-0.212","2.634","3.093","3.603"
+"IMF.RES:WEO(9.0.0)","VNM.NGDP_RPCH.A","OBS_VALUE","Vietnam","Gross domestic product (GDP), Constant prices, Percent change","Annual","Units","7.465","7.359","2.865","2.554","8.538","5.065","6.952","8.019","7.100"

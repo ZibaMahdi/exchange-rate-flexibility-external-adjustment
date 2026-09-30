@@ -1,0 +1,12 @@
+country_iso3,country_name,baseline_period,scenario,baseline_exports,baseline_imports,baseline_current_account,baseline_remittances,remittance_shock_amount,export_shock_amount,import_price_shock_amount,total_external_deterioration,mechanically_shocked_current_account,horizon_quarters
+BGD,Bangladesh,2025-Q2 to 2026-Q1 (4Q),Remittance shock (-10%),42477.21,66593.96,161.01,34748.87,-3474.89,0.0,0.0,-3474.89,-3313.88,4
+BGD,Bangladesh,2025-Q2 to 2026-Q1 (4Q),Export shock (-5%),42477.21,66593.96,161.01,34748.87,0,-2123.86,0.0,-2123.86,-1962.85,4
+BGD,Bangladesh,2025-Q2 to 2026-Q1 (4Q),Import-price shock (+10% energy -> +10% import value),42477.21,66593.96,161.01,34748.87,0,0.0,-6659.4,-6659.4,-6498.39,4
+BGD,Bangladesh,2025-Q2 to 2026-Q1 (4Q),Combined (remittance+export+import-price),42477.21,66593.96,161.01,34748.87,-3474.89,-2123.86,-6659.4,-12258.14,-12097.13,4
+PAK,Pakistan,2025-Q2 to 2026-Q1 (4Q),Remittance shock (-10%),30913.0,62457.0,449.98,40589.86,-4058.99,0.0,0.0,-4058.99,-3609.0,4
+PAK,Pakistan,2025-Q2 to 2026-Q1 (4Q),Export shock (-5%),30913.0,62457.0,449.98,40589.86,0,-1545.65,0.0,-1545.65,-1095.67,4
+PAK,Pakistan,2025-Q2 to 2026-Q1 (4Q),Import-price shock (+10% energy -> +10% import value),30913.0,62457.0,449.98,40589.86,0,0.0,-6245.7,-6245.7,-5795.72,4
+PAK,Pakistan,2025-Q2 to 2026-Q1 (4Q),Combined (remittance+export+import-price),30913.0,62457.0,449.98,40589.86,-4058.99,-1545.65,-6245.7,-11850.34,-11400.35,4
+VNM,Vietnam,2025-Q2 to 2026-Q1 (4Q),Export shock (-5%),494755.0,458784.0,31023.0,N/A - UNRESOLVED,N/A,-24737.75,0.0,-24737.75,6285.25,4
+VNM,Vietnam,2025-Q2 to 2026-Q1 (4Q),Import-price shock (+10% energy -> +10% import value),494755.0,458784.0,31023.0,N/A - UNRESOLVED,N/A,0.0,-45878.4,-45878.4,-14855.4,4
+VNM,Vietnam,2025-Q2 to 2026-Q1 (4Q),Combined (export+import-price only; remittance shock not applicable),494755.0,458784.0,31023.0,N/A - UNRESOLVED,N/A,-24737.75,-45878.4,-70616.15,-39593.15,4

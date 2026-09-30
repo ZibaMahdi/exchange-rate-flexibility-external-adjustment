@@ -1,0 +1,41 @@
+MIT License
+
+Copyright (c) 2026 Ziba Mahdi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this project's original code and written materials (including but not
+limited to the contents of code/, stata/, the Excel formulas in
+stress_test/External_Stress_Test.xlsx, paper/final_paper.md, and
+policy_note/IMF_style_policy_note.md), to deal in these materials without
+restriction, including without limitation the rights to use, copy, modify,
+merge, publish, distribute, sublicense, and/or sell copies, and to permit
+persons to whom these materials are furnished to do so, subject to the
+following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of these materials.
+
+THESE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THESE MATERIALS OR THE USE OR OTHER DEALINGS IN THESE MATERIALS.
+
+---
+
+## Scope — what this license does NOT cover
+
+This license applies only to this project's original code, formulas, and
+written analysis. It does **not** apply to, and does not grant any rights
+over, the third-party data contained in `data/raw/` or derived from it in
+`data/derived/`, which remains subject to its original providers' own terms:
+
+- IMF data (International Liquidity, Exchange Rates, Balance of Payments,
+  World Economic Outlook, Primary Commodity Price System) — subject to the
+  IMF's own data terms of use.
+- Bangladesh Bank and State Bank of Pakistan remittance data — subject to
+  each institution's own terms of use.
+
+Anyone reusing the data itself should consult and comply with the original
+source's terms directly.
