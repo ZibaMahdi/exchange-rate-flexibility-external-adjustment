@@ -1,18 +1,24 @@
 # Exchange-Rate Flexibility and External Adjustment: An Early Comparative Assessment of Bangladesh, Pakistan, and Vietnam
 
-An applied, IMF-style empirical research note examining Bangladesh's exchange-rate and reserve pressure dynamics around its May 2025 move toward a more flexible exchange-rate arrangement, benchmarked against Pakistan and Vietnam, with a stylized four-quarter external-shock stress test.
+An applied empirical research note examining Bangladesh's exchange-rate and reserve pressure dynamics around its May 2025 move toward a more flexible exchange-rate arrangement, benchmarked against Pakistan and Vietnam, with a stylized four-quarter external-shock stress test.
 
 ## Research question
 
-How did Bangladesh's exchange-rate and reserve pressure dynamics evolve around the May 2025 move toward a more flexible exchange-rate arrangement, and what does a simple external-shock stress test suggest about remaining vulnerabilities? The project builds a verified three-country macroeconomic dataset, constructs a published Exchange Market Pressure (EMP) index to describe observed exchange-rate and reserve pressure around the reform, and applies a transparent mechanical stress test to assess how large plausible remittance, export, and import-price shocks would be relative to the latest observed external accounts. **The project does not claim to measure every dimension of external-sector adjustment** (e.g., capital-flow composition or valuation effects are not covered); it is scoped specifically to exchange-rate/reserve pressure (via EMP) and a mechanical shock scenario (via the stress test).
+How did Bangladesh's exchange-rate and reserve pressure dynamics evolve around the May 2025 move toward a more flexible exchange-rate arrangement, and what does a simple external-shock stress test suggest about remaining vulnerabilities? This project
+1) builds a verified three-country macroeconomic dataset
+2) constructs a published Exchange Market Pressure (EMP) index 
+3) Describes observed exchange-rate and reserve pressure around the reform
+4) Applies a transparent mechanical stress test to assess how large plausible remittance, export, and import-price shocks would be relative to the latest observed external accounts.
+**The project does not claim to measure every dimension of external-sector adjustment** (e.g., capital-flow composition or valuation effects are not covered); it is scoped specifically to exchange-rate/reserve pressure (via EMP) and a mechanical shock scenario (via the stress test).
 
 ## Why Bangladesh's May 2025 reform
 
-Bangladesh Bank introduced a crawling-peg exchange-rate mechanism in May 2024, followed by a further move to a **more flexible exchange-rate arrangement — a crawling peg with band —** in **mid-May 2025**, under its IMF-supported financing program. This is a live, ongoing policy transition with limited existing empirical assessment, and it offers a natural case for descriptive external-sector analysis using standard IMF-style tools. **This reform is never described in this project as a free float or fully flexible exchange rate** — both the underlying IMF documentation and the observed data are explicit that it is a managed, step-like adjustment process.
+Bangladesh Bank introduced a crawling-peg exchange-rate mechanism in May 2024, followed by a further move to a **more flexible exchange-rate arrangement — a crawling peg with band —** in **mid-May 2025**, under its IMF-supported financing program. This is a live, ongoing policy transition with limited existing empirical assessment, and it offers a natural case for descriptive external-sector analysis using standard IMF-style tools. 
+**This reform is never described in this project as a free float or fully flexible exchange rate** — both the underlying IMF documentation and the observed data are explicit that it is a managed, step-like adjustment process.
 
 ## Countries covered
 
-Bangladesh (focal case), Pakistan, and Vietnam — chosen to illustrate differences in exchange-rate management, external financing structure, reserve management, remittance dependence, and trade structure, not to imply structural similarity.
+Bangladesh (focal case). Pakistan, and Vietnam were chosen to illustrate differences in exchange-rate management, external financing structure, reserve management, remittance dependence, and trade structure, not to imply structural similarity.
 
 ## Methodology
 
@@ -30,6 +36,7 @@ All data is sourced directly from primary institutions and independently verifie
 - **IMF Primary Commodity Price System (PCPS)** — global energy price index (external-shock proxy)
 - **Bangladesh Bank** and **State Bank of Pakistan** — national monthly remittance releases
 
+
 ## Headline findings
 
 
@@ -40,8 +47,8 @@ All data is sourced directly from primary institutions and independently verifie
 ## Key limitations
 
 - Descriptive, fixed-window comparison — no causal identification, no statistical significance test of the pre/post difference.
-- Pakistan and Vietnam's comparator pattern (above) is the central caution on any Bangladesh-specific reading.
-- A global energy-price spike falls inside the post-reform window — a plausible confound, not disentangled here.
+- Pakistan and Vietnam's comparative pattern (above) is the central caution on any Bangladesh-specific reading.
+- A global energy-price spike falls inside the post-reform window, not disentangled here.
 - Vietnam's nationwide monthly remittance data are unresolved; no data were fabricated or substituted to fill the gap.
 - GDP growth and CPI inflation were excluded from reform-window evidence (Bangladesh's fiscal-year reporting convention and a WEO actual-vs-projection caveat on 2025–2026 make them unreliable for this specific comparison).
 - External debt, REER, and policy interest rates were excluded from this project's scope by design.
@@ -64,7 +71,7 @@ All data is sourced directly from primary institutions and independently verifie
 │   ├── final_paper.md
 │   └── figures/                # fig1-fig4 (referenced in the paper); fig5 (stress-test bar chart) generated but not used in the final paper, per RESEARCH_LEDGER.md D-024
 ├── policy_note/
-│   └── IMF_style_policy_note.md
+│   └── policy_note.md
 ├── stress_test/
 │   └── External_Stress_Test.xlsx   # formula-driven, auditable Excel reproduction of Gate 3
 ├── data/
